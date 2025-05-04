@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,connectivitycheck.android.com
   - DOMAIN-SUFFIX,inbox.google.com
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,google.com
 
     # > Umum
   - DST-PORT,5228
