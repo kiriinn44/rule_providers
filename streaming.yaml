@@ -1,5 +1,7 @@
 payload:
   # Google
+  - DOMAIN-SUFFIX,chrome.cloudflare-dns.com
+  - DOMAIN-SUFFIX,bf.jabflive.cc
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,google.com
