@@ -195,6 +195,7 @@ payload:
   - IP-CIDR,216.73.80.0/20
   - IP-CIDR6,2620:120:e000::/40
 # IP streaming Googlevideo.com
+  - IP-CIDR,74.125.0.0/16
   - IP-CIDR,74.125.24.0/24
   - IP-CIDR,172.217.0.0/16
   - IP-CIDR,112.215.0.0/16
